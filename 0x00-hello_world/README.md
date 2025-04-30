@@ -10,3 +10,6 @@ Knowing the different stages of compilation of a C program file is important, th
 
 ## Assembler
 	The following stage is the assembly stage. Tne assembler acts as a bridge between the human readable assembly code and the machine-readable object code. It converts assembly files into object files, which contain low level instructions in binary.
+
+## Linker
+	The linker takes one or more object files and combines them into a single executable. It resolves references between files, such as function calls or variables and link in external libraries as needed. It finishes the job turning machine code into complete runnable programs
