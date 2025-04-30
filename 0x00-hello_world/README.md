@@ -4,3 +4,6 @@ Knowing the different stages of compilation of a C program file is important, th
 
 ## Preprocessor:
 	The preprocessor in a C compiler processes directives like #include and #define before compilation, handling file inclusion, macros, and conditional code. This part generates some intermediate files and gives them to the compiler
+
+## Compiler
+	The next stage after the preprocessor stage, the compiler transforms logic from c file into something the computer can run. This part generates assembly code and gives to the assembler
