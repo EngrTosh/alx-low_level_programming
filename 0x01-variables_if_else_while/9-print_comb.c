@@ -10,14 +10,11 @@ int main(void)
 	int digits;
 
 	digits = 0;
-	while (digits < 10)
+	while (digits <= 9)
 	{
 		putchar(digits % 10 + '0');
-		if (digits != 10)
-		{
-			putchar(',');
-			putchar(' ');
-		}
+		putchar(',');
+		putchar(' ');
 		digits++;
 	}
 	putchar('\n');
