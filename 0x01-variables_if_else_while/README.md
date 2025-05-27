@@ -1,6 +1,6 @@
 # C variables if else and while
 
-## Task 0
+## 0-positive or negative
 
 ### Description:
 Generates a random number n and prints whether it is positive, zero or negative
@@ -10,7 +10,7 @@ Generates a random number n and prints whether it is positive, zero or negative
 		0 is zero
 		7 is positive
 
-## Task 1: Last Digit
+## Last Digit
 
 ### Description:
 Generates a random number n and prints the last digit of n, followed by a message indicating its category
@@ -21,4 +21,18 @@ Generates a random number n and prints the last digit of n, followed by a messag
 		Last digit of 7777 is 7 and is greater than 5
 	
 TO-DO: write the readme for task 2 and task 3 before pushing to github 
-		
+## 2-print_alphabet
+
+### Description:
+Prints the lowercase alphabet (a to z), followed by a new line
+
+### Example Output:
+		abcdefghijklmnopqrstuvwxyz
+
+## 3-print_alphabet
+
+### Description:
+Prints the lowercase alphabet (a to z), followed by the uppercase alphabets, then a new line
+
+### Example Output:
+                abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 
