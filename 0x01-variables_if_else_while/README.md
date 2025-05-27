@@ -19,4 +19,6 @@ Generates a random number n and prints the last digit of n, followed by a messag
 		Last digit of 1234 is 4 and is less than 6 and not 0
 		Last digit of 980 is 0 and is 0
 		Last digit of 7777 is 7 and is greater than 5
-			
+	
+TO-DO: write the readme for task 2 and task 3 before pushing to github 
+		
